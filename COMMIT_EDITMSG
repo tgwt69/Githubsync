@@ -1,0 +1,5 @@
+Checkpoint before assistant change: Improve the system to handle folders and zip files when uploading files
+
+Implements directory and ZIP file handling for file uploads in `file-upload-panel.tsx`, adds JSZip dependency, and fixes a key issue in `file-tree-browser.tsx`.
+
+Replit-Commit-Author: Assistant
